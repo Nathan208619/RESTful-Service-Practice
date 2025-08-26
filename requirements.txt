@@ -1,0 +1,60 @@
+commands to run code :
+    python3 -m venv venv (creates virtual environment)
+    python3 app.py (run flask app)
+
+    npm run dev (start vite react frontend)
+
+
+
+flask
+flask-cors
+pandas
+
+
+
+
+
+
+
+
+
+
+// import { useEffect, useState } from "react";
+// import './App.css';
+
+// function App() {
+//   const [rows, setRows] = useState([]);
+
+//   useEffect(() => {
+//     fetch("http://localhost:5000/api/data")
+//       .then(res => res.json())
+//       .then(data => setRows(data))
+//       .catch(err => console.error("API error:", err));
+//   }, []);
+
+//   return (
+//     <div className="container">
+//       <h1>Employee Table</h1>
+//       <table border="1">
+//         <thead>
+//           <tr>
+//             {rows[0] && Object.keys(rows[0]).map((key) => (
+//               <th key={key}>{key}</th>
+//             ))}
+//           </tr>
+//         </thead>
+//         <tbody>
+//           {rows.map((row, i) => (
+//             <tr key={i}>
+//               {Object.values(row).map((val, j) => (
+//                 <td key={j}>{val}</td>
+//               ))}
+//             </tr>
+//           ))}
+//         </tbody>
+//       </table>
+//     </div>
+//   );
+// }
+
+// export default App;

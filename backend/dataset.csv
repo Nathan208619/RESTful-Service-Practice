@@ -1,0 +1,28 @@
+id,name,department,role,salary,start_date
+1,Alice Johnson,Engineering,Software Engineer,95000,2021-03-15
+2,Bob Smith,Marketing,Content Strategist,67000,2019-07-22
+3,Charlie Lee,Engineering,DevOps Engineer,98000,2020-11-01
+4,Danielle Park,HR,HR Manager,73000,2018-06-10
+5,Ethan Brown,Engineering,Software Engineer,88000,2022-01-05
+6,Fatima Khan,Marketing,SEO Specialist,65000,2020-09-30
+7,Gabriel Chen,Engineering,Data Scientist,102000,2019-04-12
+8,Hannah Lee,Sales,Sales Representative,61000,2021-10-18
+9,Isaac Wright,Engineering,QA Engineer,81000,2020-02-01
+10,Julia Perez,Sales,Account Executive,75000,2018-11-25
+11,Kevin Brown,Marketing,Social Media Manager,72000,2021-05-20
+12,Linda Green,HR,Recruiter,68000,2019-08-15
+13,Michael White,Engineering,Software Architect,115000,2020-03-05
+14,Nina Patel,Marketing,Brand Manager,70000,2021-12-01
+15,Oscar Garcia,Sales,Sales Manager,90000,2019-10-10
+16,Paula Martinez,HR,Training Coordinator,60000,2020-06-20
+17,Quentin Brown,Engineering,Cloud Engineer,105000,2021-02-15
+18,Rachel Adams,Marketing,Email Marketing Specialist,64000,2020-08-25
+19,Sam Wilson,Sales,Sales Analyst,72000,2021-04-30
+20,Tina Nguyen,HR,Compensation Analyst,62000,2019-12-05
+21,Uma Patel,Engineering,Machine Learning Engineer,110000,2021-07-10
+22,Vincent Lee,Marketing,Digital Marketing Specialist,68000,2020-10-15
+23,Wendy Brown,Sales,Customer Success Manager,77000,2021-01-20
+24,Xavier Smith,HR,Employee Relations Specialist,65000,2019-11-30
+25,Yara Johnson,Engineering,Full Stack Developer,94000,2022-02-01
+26,Zachary White,Marketing,Marketing Analyst,69000,2020-05-15
+27,Alice Smith,Sales,Business Development Representative,72000,2021-03-01

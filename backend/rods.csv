@@ -1,0 +1,6 @@
+type,length,count
+stock,100,3
+stock,120,2
+demand,30,4
+demand,45,3
+demand,25,2
